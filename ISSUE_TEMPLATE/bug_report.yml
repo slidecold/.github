@@ -1,0 +1,33 @@
+name: Bug report
+description: Something in an SDK, the CLI or the MCP server doesn't work as documented
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Remove your API key (`cs_...`) and any customer data from everything you paste.
+        Security issue? Don't file it here. See the [security policy](https://github.com/slidecold/.github/blob/main/SECURITY.md).
+  - type: input
+    id: version
+    attributes:
+      label: Package and version
+      placeholder: "e.g. slidecold 0.2.0 (npm), slidecold-mcp 0.2.0, slidecold CLI 0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: runtime
+    attributes:
+      label: Runtime and OS
+      placeholder: "e.g. Node 22 on macOS 15, Python 3.12 on Ubuntu"
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: The call or command you ran, what you expected, and what you got instead.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Error output
+      render: shell
