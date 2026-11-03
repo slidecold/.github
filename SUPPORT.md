@@ -1,5 +1,6 @@
 # Getting help
 
+- **Fastest:** our [Discord](https://discord.gg/KuzycgkuQK)
 - **Docs:** [slidecold.com/docs](https://slidecold.com/docs) and the [OpenAPI spec](https://slidecold.com/openapi.yaml)
 - **Your account, billing, or API behavior:** [support@slidecold.com](mailto:support@slidecold.com)
 - **A bug in an SDK, the CLI or the MCP server:** open an issue in that repo, and include the package version and the full error message (remove your API key first)

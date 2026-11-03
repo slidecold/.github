@@ -11,7 +11,8 @@
   <br>
   <a href="https://slidecold.com"><strong>slidecold.com</strong></a> ·
   <a href="https://slidecold.com/docs">Docs</a> ·
-  <a href="https://slidecold.com/openapi.yaml">OpenAPI spec</a>
+  <a href="https://slidecold.com/openapi.yaml">OpenAPI spec</a> ·
+  <a href="https://discord.gg/KuzycgkuQK">Discord</a>
 </p>
 
 ---
@@ -55,6 +56,7 @@ Every SDK, the CLI and the MCP server are generated from the same [OpenAPI spec]
 
 ### Help
 
+- **Fastest:** join our [Discord](https://discord.gg/KuzycgkuQK)
 - Questions about the API or your account: [support@slidecold.com](mailto:support@slidecold.com)
 - Bugs in an SDK, the CLI or the MCP server: open an issue in that repo
 - Security issues: see our [security policy](https://github.com/slidecold/.github/blob/main/SECURITY.md)

@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Discord (fastest support)
+    url: https://discord.gg/KuzycgkuQK
+    about: Chat with the SlideCold team and other users.
   - name: Account, billing or API questions
     url: mailto:support@slidecold.com
     about: Email support for anything about your SlideCold account or the API itself.
